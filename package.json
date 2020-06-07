@@ -1,6 +1,6 @@
 {
-  "name": "taikiz",
-  "version": "1.0.0",
+  "name": "@taikiz/core",
+  "version": "0.0.1",
   "description": "The taikiz framework",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,12 @@
     "url": "git+https://github.com/Taikiz/taikiz.git"
   },
   "author": "Taikiz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Taikiz/taikiz/issues"
   },
-  "homepage": "https://github.com/Taikiz/taikiz#readme"
+  "homepage": "https://github.com/Taikiz/taikiz#readme",
+  "engines": {
+    "node": ">= 10.13.0"
+  }
 }
